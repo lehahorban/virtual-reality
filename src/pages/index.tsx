@@ -22,7 +22,6 @@ export default function Home() {
         <Join />
       </main>
       <Footer />
-      <div style={{ height: "5px" }} />
     </>
   );
 }
