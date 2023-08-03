@@ -22,9 +22,10 @@ const Slider: FC<SliderProps> = ({
     slidesPerView: slide,
     spaceBetween: space,
     navigation: {
-      prevEl: "." + prevBtn,
-      nextEl: "." + nextBtn,
+      prevEl: document.querySelector("." + prevBtn),
+      nextEl: document.querySelector("." + nextBtn),
     },
+
     modules: [Navigation],
 
     breakpoints: {
