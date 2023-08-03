@@ -25,10 +25,10 @@ const Technologies: FC = () => {
             alt={data.build.image.alt}
           />
           <div className="absolute inset-0 flex flex-col items-center justify-center">
-            <h2 className="title smOnly:text-base mb-3">
+            <h2 className="title smOnly:text-sm xl:mb-3">
               {data.build.technologyTitle}
             </h2>
-            <h3 className="sub-title smOnly:text-xl">
+            <h3 className="sub-title smOnly:text-lg">
               {data.build.technologySubtitle}
             </h3>
           </div>

@@ -16,7 +16,7 @@ import data from "@/data/data.json";
 
 const Hero: FC = () => {
   return (
-    <section className="pt-28 xl:pt-40">
+    <section className="pt-20">
       <div className="container">
         <div
           className={`flex flex-col-reverse md:flex-row justify-between ${css.hero} py-[54px] md:py-[124px]`}
