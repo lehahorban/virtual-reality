@@ -1,0 +1,175 @@
+{
+  "header": {
+    "link": [
+      { "title": "ABOUT", "url": "about" },
+      { "title": "SERVICES", "url": "services" },
+      { "title": "TECHNOLOGIES", "url": "technologies" },
+      { "title": "HOW TO", "url": "how" }
+    ],
+    "btnContact": {
+      "title": "CONTACT US"
+    },
+    "btnJoin": {
+      "title": "JOIN HYDRA"
+    }
+  },
+  "hero": {
+    "title": "Dive Into The Depths Of Virtual Reality",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore nisl tincidunt eget. Lectus mauris eros in vitae .",
+    "btn": {
+      "text": "BUILD YOUR WORLD"
+    },
+    "imageSm": {
+      "url": "/images/hero/hero-sm.png",
+      "alt": "girl"
+    },
+    "imageXl": {
+      "url": "/images/hero/hero-xl.png",
+      "alt": "girl"
+    },
+    "card": [
+      {
+        "image": {
+          "url": "/images/hero/location.svg",
+          "alt": "location"
+        },
+        "title": "Pay Us a Visit",
+        "text": "Union St, Seattle, WA 98101, United States"
+      },
+      {
+        "image": {
+          "url": "/images/hero/tel.svg",
+          "alt": "tel"
+        },
+        "title": "Give Us a Call",
+        "text": "(110) 1111-1010"
+      },
+      {
+        "image": {
+          "url": "/images/hero/mail.svg",
+          "alt": "mail"
+        },
+        "title": "Send Us a Message",
+        "text": "Contact@HydraVTech.com"
+      }
+    ]
+  },
+  "introduction": {
+    "title": "INTRODUCTION",
+    "subtitle": "TO HYDRA VR",
+    "text": "Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Feugiat nibh sed pulvinar proin gravida hendrerit lectus. Mi sit amet mauris commodo quis imperdiet massa tincidunt nunc. Viverra aliquet eget sit amet tellus. Ornare lectus sit amet est placerat in. Lectus magna fringilla urna porttitor rhoncus vitae."
+  },
+  "about": {
+    "title": "ABOUT",
+    "subtitle": "HYDRA VR",
+    "text": "Eget mi proin sed libero enim sed faucibus turpis. Nisl rhoncus mattis rhoncus  urna neque viverra justo. Vivamus at augue eget arcu dictum. Ultrices gravida  dictum fusce ut placerat orci. Aenean et tortor at risus viverra adipiscing at in.  Mattis aliquam faucibus purus in massa. Est placerat in egestas erat imperdiet  sed. Consequat semper viverra nam libero justo laoreet sit amet. Aliquam  etiam erat velit scelerisque in dictum non consectetur a. Laoreet sit amet  cursus sit amet. Vel eros donec ac odio tempor orci dapibus. Sem nulla pha retra diam sit amet nisl suscipit adipiscing bibendum. Leo a diam sollicitudi n tempor.",
+    "btn": {
+      "text": "LET’S GET IN TOUCH"
+    },
+    "image": {
+      "url": "/images/about/foto.png",
+      "alt": "foto"
+    }
+  },
+  "build": {
+    "title": "WHY BUILD",
+    "subtitle": "WITH HYDRA?",
+    "text": "Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Feugiat nibh sed pulvinar proin gravida hendrerit lectus. Mi sit amet mauris commodo quis imperdiet massa tincidunt nunc. Viverra aliquet eget sit amet tellus. Ornare lectus sit amet est placerat in. Lectus magna fringilla urna porttitor rhoncus vitae.",
+    "card": [
+      {
+        "image": {
+          "url": "/images/build/card1.png",
+          "alt": "foto"
+        },
+        "title": "SIMULATION",
+        "text": "Vitae sapien pellentesque habitant morbi nunc. Viverra aliquet  porttitor rhoncus libero justo laoreet sit amet vitae.",
+        "btn": {
+          "text": "TRY IT NOW"
+        }
+      },
+      {
+        "image": {
+          "url": "/images/build/card2.png",
+          "alt": "foto"
+        },
+        "title": "EDUCATION",
+        "text": "Vitae sapien pellentesque habitant morbi nunc. Viverra aliquet  porttitor rhoncus libero justo laoreet sit amet vitae.",
+        "btn": {
+          "text": "TRY IT NOW"
+        }
+      },
+      {
+        "image": {
+          "url": "/images/build/card3.png",
+          "alt": "foto"
+        },
+        "title": "SELF-CARE",
+        "text": "Vitae sapien pellentesque habitant morbi nunc. Viverra aliquet  porttitor rhoncus libero justo laoreet sit amet vitae.",
+        "btn": {
+          "text": "TRY IT NOW"
+        }
+      },
+      {
+        "image": {
+          "url": "/images/build/card4.png",
+          "alt": "foto"
+        },
+        "title": "OUTDOOR",
+        "text": "Vitae sapien pellentesque habitant morbi nunc. Viverra aliquet  porttitor rhoncus libero justo laoreet sit amet vitae.",
+        "btn": {
+          "text": "TRY IT NOW"
+        }
+      }
+    ],
+    "image": {
+      "url": "/images/build/build-technology.png",
+      "alt": "technology"
+    },
+    "technologyTitle": "TECHNOLOGIES & HARDWARE",
+    "technologySubtitle": "USED BY HYDRA VR."
+  },
+  "howBuild": {
+    "title": "HOW WE BUILD",
+    "subtitle": "WITH HYDRA VR?",
+    "text": "Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Feugiat nibh sed pulvinar proin gravida hendrerit lectus. Mi sit amet mauris commodo quis imperdiet massa tincidunt nunc. Viverra aliquet eget sit amet tellus. Ornare lectus sit amet est placerat in. Lectus magna fringilla urna porttitor rhoncus vitae.",
+    "card": [
+      { "number": "1", "text": "3D Conception & Design" },
+      { "number": "2", "text": "Interaction Design" },
+      { "number": "3", "text": "VR World User Testing" },
+      { "number": "4", "text": "Hydra VR Deploy" }
+    ]
+  },
+  "join": {
+    "title": "JOIN HYDRA",
+    "subtitle": "Let’s Build Your VR Experience",
+    "form": {
+      "name": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "textarea": "Tell Us Something...",
+      "btn": "SEND TO HYDRA"
+    }
+  },
+  "footer": {
+    "nav": [
+      { "text": "ABOUT" },
+      { "text": "SERVICES" },
+      { "text": "TECHNOLOGIES" },
+      { "text": "HOW TO" },
+      { "text": "JOIN HYDRA" }
+    ],
+    "list": [
+      { "text": "F.A.Q" },
+      { "text": "SITEMAP" },
+      { "text": "CONDITIONS" },
+      { "text": "LICENSES" }
+    ],
+    "description": "2023 © HYDRA LANDING PAGE - BY ZINE. E. FALOUTI - ALL RIGHTS RESERVED"
+  },
+  "social": {
+    "text": "SOCIALIZE WITH HYDRA",
+    "btn": "BUILD YOUR WORLD"
+  }
+}
